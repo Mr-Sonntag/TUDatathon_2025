@@ -1,5 +1,9 @@
-# TUDatathon_2025
-Contributors Name ; GitHub Profile: Moiz Uddin ; , Nicole Farrell ; , Pranav Nemani ; , Zachary Sonntag ; Mr-Sonntag
+## TUDatathon_2025
+# Contributor's Name, GitHub Profile:
+Moiz Uddin, 
+Nicole Farrell, 
+Pranav Nemani, 
+Zachary Sonntag, Mr-Sonntag
 
 This project is being developed in collaboration with the contributors above for Temple University's Data Science Community's Datathon competition.
 
