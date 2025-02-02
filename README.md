@@ -49,7 +49,5 @@ This project is being developed in collaboration with the contributors listed be
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
----
 
-Let’s create an AI-driven basketball analysis system together! 🏀🚀
 
