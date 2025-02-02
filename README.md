@@ -1,5 +1,5 @@
-## TUDatathon_2025
-# Contributor's Name, GitHub Profile:
+# TUDatathon_2025
+## Contributor's Name, GitHub Profile:
 Moiz Uddin, 
 Nicole Farrell, 
 Pranav Nemani, 
