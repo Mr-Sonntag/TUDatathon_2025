@@ -12,12 +12,12 @@ This project is being developed in collaboration with the contributors listed be
 
 ## 👥 Contributors
 
-| Name            | GitHub Profile                              |
-| --------------- | ------------------------------------------- |
-| Moiz Uddin      | [GitHub](#)                                 |
-| Nicole Farrell  | [GitHub](https://github.com/nicfarrell)     |
-| Pranav Nemani   | [GitHub](https://github.com/pnemanitech)    |
-| Zachary Sonntag | [Mr-Sonntag](https://github.com/Mr-Sonntag) |
+| Name            | GitHub Profile                               |
+| --------------- | -------------------------------------------- |
+| Moiz Uddin      | [GitHub](#)                                  |
+| Nicole Farrell  | [nicfarrell](https://github.com/nicfarrell)  |
+| Pranav Nemani   | [pnemanitech](https://github.com/pnemanitech)|
+| Zachary Sonntag | [Mr-Sonntag](https://github.com/Mr-Sonntag)  |
 
 ## 🚀 Technologies Used
 
